@@ -1,0 +1,16 @@
+# Game Design Document 
+
+## Concept
+
+* 1v1 Tank Game, trebuie sa iti tintesti inamicul si sa il elimini , distrugandu-i bara de viata,
+ pe langa inamic terenul mai este un dezavantaj sau avantaj depinzand de cazuri.
+ 
+## Rulles
+
+* Win- atunci cand iti elimini oponentul
+* Loss atunci cand esti infrant .
+* Ai un numar limitat de munitii pe care le poti trage o data
+* Terenul este limitat si neuniformizat
+
+## Requirments 
+* Texturi , mapa , model tank , cod pentru functionare , texturi , sunete arma , explozii , particule, fum etc.
