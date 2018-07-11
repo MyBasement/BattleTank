@@ -5,3 +5,4 @@ An open-world head-to-head tank fights with simple AI, terrain, and advance cotn
 * BT02 Game Design Document (GDD)
 * BT03 SettingUp A GitHub "Repo"
 * BT04 Creating & Deleting Landscapes
+* BT04 Landscape Setup & Scaling
