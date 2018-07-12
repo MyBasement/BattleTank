@@ -6,3 +6,4 @@ An open-world head-to-head tank fights with simple AI, terrain, and advance cotn
 * BT03 SettingUp A GitHub "Repo"
 * BT04 Creating & Deleting Landscapes
 * BT05 Landscape Setup & Scaling
+* BT06 Using Landscape Layers
